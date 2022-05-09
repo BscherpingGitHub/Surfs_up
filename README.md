@@ -1,7 +1,7 @@
 # Surfs_up
-## Overview of the analysis: Explain the purpose of this analysis.
+## Overview of the analysis:
 This analysis will determine if the surf and ice cream shop business is sustainable year-round.
-## Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
+## Results: 
 ![junetemp](Resources/junetemp.png) ![dectemp](Resources/dectemp.png)</br>
 
 Based off the summary statistics of June and December above we can conclude:
@@ -9,7 +9,7 @@ Based off the summary statistics of June and December above we can conclude:
 - The standard deviation is similar showing not much fluctuation throughout the year.
 - With a small temperature change for the year, starting a surf and ice cream shop business would be successful.
 
-## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+## Summary: 
 Two additional queries would be precipitation for June and December. The graphs below show each month's precipitation:</br>
 ![junerain](Resources/junerain.png) ![decrain](Resources/decrain.png)</br>
 
