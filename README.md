@@ -8,4 +8,5 @@ Based off the summary statstics of June and December above we can conclude:
 - The temperature is relativily similar between the middle of summer and winter. An average difference between 4 degrees.
 - The standard deviation is similar showing not much fluctuation through out the year.
 - With a small temperature change for the year, starting a surf and ice cream shop business would be successful.
+
 ## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
